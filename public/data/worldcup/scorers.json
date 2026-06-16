@@ -1,0 +1,109 @@
+{
+  "updated_at": "2026-06-14T00:00:00Z",
+  "scorers": [
+    {
+      "name": "Folarin Balogun",
+      "name_pt": "Folarin Balogun",
+      "team_id": "USA",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Julián Quiñones",
+      "name_pt": "Julián Quiñones",
+      "team_id": "MEX",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Raúl Jiménez",
+      "name_pt": "Raúl Jiménez",
+      "team_id": "MEX",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Giovanni Reyna",
+      "name_pt": "Giovanni Reyna",
+      "team_id": "USA",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Hwang In-beom",
+      "name_pt": "Hwang In-beom",
+      "team_id": "KOR",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Oh Hyeon-gyu",
+      "name_pt": "Oh Hyeon-gyu",
+      "team_id": "KOR",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Ladislav Krejčí",
+      "name_pt": "Ladislav Krejčí",
+      "team_id": "CZE",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Cyle Larin",
+      "name_pt": "Cyle Larin",
+      "team_id": "CAN",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Jovan Lukić",
+      "name_pt": "Jovan Lukić",
+      "team_id": "BIH",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Breel Embolo",
+      "name_pt": "Breel Embolo",
+      "team_id": "SUI",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 1
+    },
+    {
+      "name": "Vinícius Júnior",
+      "name_pt": "Vinícius Júnior",
+      "team_id": "BRA",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Ismaël Saïbari",
+      "name_pt": "Ismaël Saïbari",
+      "team_id": "MAR",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    },
+    {
+      "name": "Damián Mauricio",
+      "name_pt": "Damián Mauricio",
+      "team_id": "PAR",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0
+    }
+  ]
+}

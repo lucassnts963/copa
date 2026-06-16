@@ -1,0 +1,299 @@
+{
+  "updated_at": "2026-06-14T00:00:00Z",
+  "round_of_32": [
+    {
+      "id": "R32-1",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-06-28T20:00:00Z"
+    },
+    {
+      "id": "R32-2",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-06-28T20:00:00Z"
+    },
+    {
+      "id": "R32-3",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-06-29T20:00:00Z"
+    },
+    {
+      "id": "R32-4",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-06-29T20:00:00Z"
+    },
+    {
+      "id": "R32-5",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-06-29T20:00:00Z"
+    },
+    {
+      "id": "R32-6",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-06-30T20:00:00Z"
+    },
+    {
+      "id": "R32-7",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-06-30T20:00:00Z"
+    },
+    {
+      "id": "R32-8",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-01T20:00:00Z"
+    },
+    {
+      "id": "R32-9",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-01T20:00:00Z"
+    },
+    {
+      "id": "R32-10",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-01T20:00:00Z"
+    },
+    {
+      "id": "R32-11",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-02T20:00:00Z"
+    },
+    {
+      "id": "R32-12",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-02T20:00:00Z"
+    },
+    {
+      "id": "R32-13",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-02T20:00:00Z"
+    },
+    {
+      "id": "R32-14",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-03T20:00:00Z"
+    },
+    {
+      "id": "R32-15",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-03T20:00:00Z"
+    },
+    {
+      "id": "R32-16",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-03T20:00:00Z"
+    }
+  ],
+  "round_of_16": [
+    {
+      "id": "R16-1",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-04T20:00:00Z"
+    },
+    {
+      "id": "R16-2",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-04T20:00:00Z"
+    },
+    {
+      "id": "R16-3",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-05T20:00:00Z"
+    },
+    {
+      "id": "R16-4",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-05T20:00:00Z"
+    },
+    {
+      "id": "R16-5",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-06T20:00:00Z"
+    },
+    {
+      "id": "R16-6",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-06T20:00:00Z"
+    },
+    {
+      "id": "R16-7",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-07T20:00:00Z"
+    },
+    {
+      "id": "R16-8",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-07T20:00:00Z"
+    }
+  ],
+  "quarter_finals": [
+    {
+      "id": "QF-1",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-09T20:00:00Z"
+    },
+    {
+      "id": "QF-2",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-10T20:00:00Z"
+    },
+    {
+      "id": "QF-3",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-11T20:00:00Z"
+    },
+    {
+      "id": "QF-4",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-11T20:00:00Z"
+    }
+  ],
+  "semi_finals": [
+    {
+      "id": "SF-1",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-14T20:00:00Z"
+    },
+    {
+      "id": "SF-2",
+      "home_team_id": null,
+      "away_team_id": null,
+      "home_goals": null,
+      "away_goals": null,
+      "status": "upcoming",
+      "datetime": "2026-07-15T20:00:00Z"
+    }
+  ],
+  "third_place": {
+    "id": "3P-1",
+    "home_team_id": null,
+    "away_team_id": null,
+    "home_goals": null,
+    "away_goals": null,
+    "status": "upcoming",
+    "datetime": "2026-07-18T20:00:00Z"
+  },
+  "final": {
+    "id": "FIN-1",
+    "home_team_id": null,
+    "away_team_id": null,
+    "home_goals": null,
+    "away_goals": null,
+    "status": "upcoming",
+    "datetime": "2026-07-19T20:00:00Z"
+  }
+}

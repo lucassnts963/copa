@@ -1,0 +1,6338 @@
+{
+  "Algeria": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Melvin Mastil"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Aïssa Mandi"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Achref Abada"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Mohamed Amine Tougai"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Zineddine Belaïd"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Ramiz Zerrouki"
+    },
+    {
+      "number": "7",
+      "position": "4FW",
+      "name": "Riyad Mahrez (captain)"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Houssem Aouar"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Amine Gouiri"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "Farès Chaïbi"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Anis Hadj Moussa"
+    },
+    {
+      "number": "12",
+      "position": "4FW",
+      "name": "Nadhir Benbouali"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Jaouen Hadjam"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Hicham Boudaoui"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "Rayan Aït-Nouri"
+    },
+    {
+      "number": "16",
+      "position": "1GK",
+      "name": "Oussama Benbot"
+    },
+    {
+      "number": "17",
+      "position": "2DF",
+      "name": "Rafik Belghali"
+    },
+    {
+      "number": "18",
+      "position": "4FW",
+      "name": "Mohamed Amoura"
+    },
+    {
+      "number": "19",
+      "position": "3MF",
+      "name": "Nabil Bentaleb"
+    },
+    {
+      "number": "20",
+      "position": "4FW",
+      "name": "Adil Boulbina"
+    },
+    {
+      "number": "21",
+      "position": "2DF",
+      "name": "Ramy Bensebaini"
+    },
+    {
+      "number": "22",
+      "position": "3MF",
+      "name": "Ibrahim Maza"
+    },
+    {
+      "number": "23",
+      "position": "1GK",
+      "name": "Luca Zidane"
+    },
+    {
+      "number": "24",
+      "position": "3MF",
+      "name": "Yacine Titraoui"
+    },
+    {
+      "number": "25",
+      "position": "4FW",
+      "name": "Farès Ghedjemis"
+    },
+    {
+      "number": "26",
+      "position": "2DF",
+      "name": "Samir Chergui"
+    }
+  ],
+  "Argentina": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Juan Musso"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Marcos Senesi"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Nicolás Tagliafico"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Gonzalo Montiel"
+    },
+    {
+      "number": "5",
+      "position": "3MF",
+      "name": "Leandro Paredes"
+    },
+    {
+      "number": "6",
+      "position": "2DF",
+      "name": "Lisandro Martínez"
+    },
+    {
+      "number": "7",
+      "position": "3MF",
+      "name": "Rodrigo De Paul"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Valentín Barco"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Julián Alvarez"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Lionel Messi (captain)"
+    },
+    {
+      "number": "11",
+      "position": "3MF",
+      "name": "Giovani Lo Celso"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Gerónimo Rulli"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Cristian Romero"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Exequiel Palacios"
+    },
+    {
+      "number": "15",
+      "position": "3MF",
+      "name": "Nicolás González"
+    },
+    {
+      "number": "16",
+      "position": "4FW",
+      "name": "Thiago Almada"
+    },
+    {
+      "number": "17",
+      "position": "4FW",
+      "name": "Giuliano Simeone"
+    },
+    {
+      "number": "18",
+      "position": "4FW",
+      "name": "Nico Paz"
+    },
+    {
+      "number": "19",
+      "position": "2DF",
+      "name": "Nicolás Otamendi"
+    },
+    {
+      "number": "20",
+      "position": "3MF",
+      "name": "Alexis Mac Allister"
+    },
+    {
+      "number": "21",
+      "position": "4FW",
+      "name": "José Manuel López"
+    },
+    {
+      "number": "22",
+      "position": "4FW",
+      "name": "Lautaro Martínez"
+    },
+    {
+      "number": "23",
+      "position": "1GK",
+      "name": "Emiliano Martínez"
+    },
+    {
+      "number": "24",
+      "position": "3MF",
+      "name": "Enzo Fernández"
+    },
+    {
+      "number": "25",
+      "position": "2DF",
+      "name": "Facundo Medina"
+    },
+    {
+      "number": "26",
+      "position": "2DF",
+      "name": "Nahuel Molina"
+    }
+  ],
+  "Australia": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Mathew Ryan (captain)"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Miloš Degenek"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Alessandro Circati"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Jacob Italiano"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Jordan Bos"
+    },
+    {
+      "number": "6",
+      "position": "2DF",
+      "name": "Jason Geria"
+    },
+    {
+      "number": "7",
+      "position": "4FW",
+      "name": "Mathew Leckie"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Connor Metcalfe"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Mohamed Touré"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Ajdin Hrustic"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Awer Mabil"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Paul Izzo"
+    },
+    {
+      "number": "13",
+      "position": "3MF",
+      "name": "Aiden O'Neill"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Cammy Devlin"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "Kai Trewin"
+    },
+    {
+      "number": "16",
+      "position": "2DF",
+      "name": "Aziz Behich"
+    },
+    {
+      "number": "17",
+      "position": "4FW",
+      "name": "Nestory Irankunda"
+    },
+    {
+      "number": "18",
+      "position": "1GK",
+      "name": "Patrick Beach"
+    },
+    {
+      "number": "19",
+      "position": "2DF",
+      "name": "Harry Souttar"
+    },
+    {
+      "number": "20",
+      "position": "4FW",
+      "name": "Cristian Volpato"
+    },
+    {
+      "number": "21",
+      "position": "2DF",
+      "name": "Cameron Burgess"
+    },
+    {
+      "number": "22",
+      "position": "3MF",
+      "name": "Jackson Irvine"
+    },
+    {
+      "number": "23",
+      "position": "4FW",
+      "name": "Nishan Velupillay"
+    },
+    {
+      "number": "24",
+      "position": "3MF",
+      "name": "Paul Okon-Engstler"
+    },
+    {
+      "number": "25",
+      "position": "2DF",
+      "name": "Lucas Herrington"
+    },
+    {
+      "number": "26",
+      "position": "4FW",
+      "name": "Tete Yengi"
+    }
+  ],
+  "Austria": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Alexander Schlager"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "David Affengruber"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Kevin Danso"
+    },
+    {
+      "number": "4",
+      "position": "3MF",
+      "name": "Xaver Schlager"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Stefan Posch"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Nicolas Seiwald"
+    },
+    {
+      "number": "7",
+      "position": "4FW",
+      "name": "Marko Arnautović"
+    },
+    {
+      "number": "8",
+      "position": "2DF",
+      "name": "David Alaba (captain)"
+    },
+    {
+      "number": "9",
+      "position": "3MF",
+      "name": "Marcel Sabitzer"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "Florian Grillitsch"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Michael Gregoritsch"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Florian Wiegele"
+    },
+    {
+      "number": "13",
+      "position": "1GK",
+      "name": "Patrick Pentz"
+    },
+    {
+      "number": "14",
+      "position": "4FW",
+      "name": "Saša Kalajdžić"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "Philipp Lienhart"
+    },
+    {
+      "number": "16",
+      "position": "2DF",
+      "name": "Phillipp Mwene"
+    },
+    {
+      "number": "17",
+      "position": "3MF",
+      "name": "Carney Chukwuemeka"
+    },
+    {
+      "number": "18",
+      "position": "3MF",
+      "name": "Romano Schmid"
+    },
+    {
+      "number": "19",
+      "position": "3MF",
+      "name": "Dejan Ljubičić"
+    },
+    {
+      "number": "20",
+      "position": "3MF",
+      "name": "Konrad Laimer"
+    },
+    {
+      "number": "21",
+      "position": "4FW",
+      "name": "Patrick Wimmer"
+    },
+    {
+      "number": "22",
+      "position": "3MF",
+      "name": "Alexander Prass"
+    },
+    {
+      "number": "23",
+      "position": "2DF",
+      "name": "Marco Friedl"
+    },
+    {
+      "number": "24",
+      "position": "3MF",
+      "name": "Paul Wanner"
+    },
+    {
+      "number": "25",
+      "position": "2DF",
+      "name": "Michael Svoboda"
+    },
+    {
+      "number": "26",
+      "position": "3MF",
+      "name": "Alessandro Schöpf"
+    }
+  ],
+  "Belgium": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Thibaut Courtois"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Zeno Debast"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Arthur Theate"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Brandon Mechele"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Maxim De Cuyper"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Axel Witsel"
+    },
+    {
+      "number": "7",
+      "position": "3MF",
+      "name": "Kevin De Bruyne"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Youri Tielemans (captain)"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Romelu Lukaku"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Leandro Trossard"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Jérémy Doku"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Senne Lammens"
+    },
+    {
+      "number": "13",
+      "position": "1GK",
+      "name": "Mike Penders"
+    },
+    {
+      "number": "14",
+      "position": "4FW",
+      "name": "Dodi Lukébakio"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "Thomas Meunier"
+    },
+    {
+      "number": "16",
+      "position": "2DF",
+      "name": "Koni De Winter"
+    },
+    {
+      "number": "17",
+      "position": "4FW",
+      "name": "Charles De Ketelaere"
+    },
+    {
+      "number": "18",
+      "position": "2DF",
+      "name": "Joaquin Seys"
+    },
+    {
+      "number": "19",
+      "position": "3MF",
+      "name": "Diego Moreira"
+    },
+    {
+      "number": "20",
+      "position": "3MF",
+      "name": "Hans Vanaken"
+    },
+    {
+      "number": "21",
+      "position": "2DF",
+      "name": "Timothy Castagne"
+    },
+    {
+      "number": "22",
+      "position": "3MF",
+      "name": "Alexis Saelemaekers"
+    },
+    {
+      "number": "23",
+      "position": "3MF",
+      "name": "Nicolas Raskin"
+    },
+    {
+      "number": "24",
+      "position": "3MF",
+      "name": "Amadou Onana"
+    },
+    {
+      "number": "25",
+      "position": "2DF",
+      "name": "Nathan Ngoy"
+    },
+    {
+      "number": "26",
+      "position": "4FW",
+      "name": "Matias Fernandez-Pardo"
+    }
+  ],
+  "Bosnia and Herzegovina": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Nikola Vasilj"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Nihad Mujakić"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Dennis Hadžikadunić"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Tarik Muharemović"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Sead Kolašinac"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Benjamin Tahirović"
+    },
+    {
+      "number": "7",
+      "position": "2DF",
+      "name": "Amar Dedić"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Armin Gigović"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Samed Baždar"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Ermedin Demirović"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Edin Džeko (captain)"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Mladen Jurkas"
+    },
+    {
+      "number": "13",
+      "position": "3MF",
+      "name": "Ivan Bašić"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Ivan Šunjić"
+    },
+    {
+      "number": "15",
+      "position": "3MF",
+      "name": "Amar Memić"
+    },
+    {
+      "number": "16",
+      "position": "3MF",
+      "name": "Amir Hadžiahmetović"
+    },
+    {
+      "number": "17",
+      "position": "3MF",
+      "name": "Dženis Burnić"
+    },
+    {
+      "number": "18",
+      "position": "2DF",
+      "name": "Nikola Katić"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Kerim Alajbegović"
+    },
+    {
+      "number": "20",
+      "position": "4FW",
+      "name": "Esmir Bajraktarević"
+    },
+    {
+      "number": "21",
+      "position": "2DF",
+      "name": "Stjepan Radeljić"
+    },
+    {
+      "number": "22",
+      "position": "1GK",
+      "name": "Martin Zlomislić"
+    },
+    {
+      "number": "23",
+      "position": "4FW",
+      "name": "Haris Tabaković"
+    },
+    {
+      "number": "24",
+      "position": "2DF",
+      "name": "Arjan Malić"
+    },
+    {
+      "number": "25",
+      "position": "4FW",
+      "name": "Jovo Lukić"
+    },
+    {
+      "number": "26",
+      "position": "3MF",
+      "name": "Ermin Mahmić"
+    }
+  ],
+  "Brazil": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Alisson"
+    },
+    {
+      "number": "2",
+      "position": "3MF",
+      "name": "Éderson Silva"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Gabriel Magalhães"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Marquinhos (captain)"
+    },
+    {
+      "number": "5",
+      "position": "3MF",
+      "name": "Casemiro"
+    },
+    {
+      "number": "6",
+      "position": "2DF",
+      "name": "Alex Sandro"
+    },
+    {
+      "number": "7",
+      "position": "4FW",
+      "name": "Vinícius Júnior"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Bruno Guimarães"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Matheus Cunha"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Neymar"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Raphinha"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Weverton"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Danilo Luiz"
+    },
+    {
+      "number": "14",
+      "position": "2DF",
+      "name": "Bremer"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "Léo Pereira"
+    },
+    {
+      "number": "16",
+      "position": "2DF",
+      "name": "Douglas Santos"
+    },
+    {
+      "number": "17",
+      "position": "3MF",
+      "name": "Fabinho"
+    },
+    {
+      "number": "18",
+      "position": "3MF",
+      "name": "Danilo Santos"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Endrick"
+    },
+    {
+      "number": "20",
+      "position": "3MF",
+      "name": "Lucas Paquetá"
+    },
+    {
+      "number": "21",
+      "position": "4FW",
+      "name": "Luiz Henrique"
+    },
+    {
+      "number": "22",
+      "position": "4FW",
+      "name": "Gabriel Martinelli"
+    },
+    {
+      "number": "23",
+      "position": "1GK",
+      "name": "Ederson Moraes"
+    },
+    {
+      "number": "24",
+      "position": "2DF",
+      "name": "Roger Ibañez"
+    },
+    {
+      "number": "25",
+      "position": "4FW",
+      "name": "Igor Thiago"
+    },
+    {
+      "number": "26",
+      "position": "4FW",
+      "name": "Rayan"
+    }
+  ],
+  "Cabo Verde": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Vozinha"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Stopira"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Diney"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Roberto Lopes"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Logan Costa"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Kevin Pina"
+    },
+    {
+      "number": "7",
+      "position": "3MF",
+      "name": "Jovane Cabral"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "João Paulo"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Gilson Benchimol"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "Jamiro Monteiro"
+    },
+    {
+      "number": "11",
+      "position": "3MF",
+      "name": "Garry Rodrigues"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Márcio Rosa"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Sidny Lopes Cabral"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Deroy Duarte"
+    },
+    {
+      "number": "15",
+      "position": "3MF",
+      "name": "Laros Duarte"
+    },
+    {
+      "number": "16",
+      "position": "3MF",
+      "name": "Yannick Semedo"
+    },
+    {
+      "number": "17",
+      "position": "3MF",
+      "name": "Willy Semedo"
+    },
+    {
+      "number": "18",
+      "position": "3MF",
+      "name": "Telmo Arcanjo"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Dailon Livramento"
+    },
+    {
+      "number": "20",
+      "position": "4FW",
+      "name": "Ryan Mendes (captain)"
+    },
+    {
+      "number": "21",
+      "position": "3MF",
+      "name": "Nuno da Costa"
+    },
+    {
+      "number": "22",
+      "position": "2DF",
+      "name": "Steven Moreira"
+    },
+    {
+      "number": "23",
+      "position": "1GK",
+      "name": "CJ dos Santos"
+    },
+    {
+      "number": "24",
+      "position": "2DF",
+      "name": "Wagner Pina"
+    },
+    {
+      "number": "25",
+      "position": "2DF",
+      "name": "Kelvin Pires"
+    },
+    {
+      "number": "26",
+      "position": "3MF",
+      "name": "Hélio Varela"
+    }
+  ],
+  "Canada": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Dayne St. Clair"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Alistair Johnston"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Alfie Jones"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Luc de Fougerolles"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Joel Waterman"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Mathieu Choinière"
+    },
+    {
+      "number": "7",
+      "position": "3MF",
+      "name": "Stephen Eustáquio"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Ismaël Koné"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Cyle Larin"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Jonathan David"
+    },
+    {
+      "number": "11",
+      "position": "3MF",
+      "name": "Liam Millar"
+    },
+    {
+      "number": "12",
+      "position": "4FW",
+      "name": "Tani Oluwaseyi"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Derek Cornelius"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Jacob Shaffelburg"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "Moïse Bombito"
+    },
+    {
+      "number": "16",
+      "position": "1GK",
+      "name": "Maxime Crépeau"
+    },
+    {
+      "number": "17",
+      "position": "4FW",
+      "name": "Tajon Buchanan"
+    },
+    {
+      "number": "18",
+      "position": "1GK",
+      "name": "Owen Goodman"
+    },
+    {
+      "number": "19",
+      "position": "2DF",
+      "name": "Alphonso Davies (captain)"
+    },
+    {
+      "number": "20",
+      "position": "4FW",
+      "name": "Ali Ahmed"
+    },
+    {
+      "number": "21",
+      "position": "3MF",
+      "name": "Jonathan Osorio"
+    },
+    {
+      "number": "22",
+      "position": "2DF",
+      "name": "Richie Laryea"
+    },
+    {
+      "number": "23",
+      "position": "2DF",
+      "name": "Niko Sigur"
+    },
+    {
+      "number": "24",
+      "position": "4FW",
+      "name": "Promise David"
+    },
+    {
+      "number": "25",
+      "position": "3MF",
+      "name": "Nathan Saliba"
+    },
+    {
+      "number": "26",
+      "position": "4FW",
+      "name": "Jayden Nelson"
+    }
+  ],
+  "Colombia": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "David Ospina"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Daniel Muñoz"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Jhon Lucumí"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Santiago Arias"
+    },
+    {
+      "number": "5",
+      "position": "3MF",
+      "name": "Kevin Castaño"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Richard Ríos"
+    },
+    {
+      "number": "7",
+      "position": "4FW",
+      "name": "Luis Díaz"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Jorge Carrascal"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Jhon Córdoba"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "James Rodríguez (captain)"
+    },
+    {
+      "number": "11",
+      "position": "3MF",
+      "name": "Jhon Arias"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Camilo Vargas"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Yerry Mina"
+    },
+    {
+      "number": "14",
+      "position": "2DF",
+      "name": "Gustavo Puerta"
+    },
+    {
+      "number": "15",
+      "position": "3MF",
+      "name": "Juan Portilla"
+    },
+    {
+      "number": "16",
+      "position": "3MF",
+      "name": "Jefferson Lerma"
+    },
+    {
+      "number": "17",
+      "position": "2DF",
+      "name": "Johan Mojica"
+    },
+    {
+      "number": "18",
+      "position": "2DF",
+      "name": "Willer Ditta"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Cucho Hernández"
+    },
+    {
+      "number": "20",
+      "position": "3MF",
+      "name": "Juan Fernando Quintero"
+    },
+    {
+      "number": "21",
+      "position": "4FW",
+      "name": "Jaminton Campaz"
+    },
+    {
+      "number": "22",
+      "position": "2DF",
+      "name": "Deiver Machado"
+    },
+    {
+      "number": "23",
+      "position": "2DF",
+      "name": "Davinson Sánchez"
+    },
+    {
+      "number": "24",
+      "position": "1GK",
+      "name": "Álvaro Montero"
+    },
+    {
+      "number": "25",
+      "position": "4FW",
+      "name": "Luis Suárez"
+    },
+    {
+      "number": "26",
+      "position": "4FW",
+      "name": "Andrés Gómez"
+    }
+  ],
+  "Congo DR": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Lionel Mpasi"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Aaron Wan-Bissaka"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Steve Kapuadi"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Axel Tuanzebe"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Dylan Batubinsika"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Ngal'ayel Mukau"
+    },
+    {
+      "number": "7",
+      "position": "3MF",
+      "name": "Nathanaël Mbuku"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Samuel Moutoussamy"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Brian Cipenga"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "Théo Bongonda"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Gaël Kakuta"
+    },
+    {
+      "number": "12",
+      "position": "2DF",
+      "name": "Joris Kayembe"
+    },
+    {
+      "number": "13",
+      "position": "4FW",
+      "name": "Meschak Elia"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Noah Sadiki"
+    },
+    {
+      "number": "15",
+      "position": "3MF",
+      "name": "Aaron Tshibola"
+    },
+    {
+      "number": "16",
+      "position": "1GK",
+      "name": "Timothy Fayulu"
+    },
+    {
+      "number": "17",
+      "position": "4FW",
+      "name": "Cédric Bakambu"
+    },
+    {
+      "number": "18",
+      "position": "3MF",
+      "name": "Charles Pickel"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Fiston Mayele"
+    },
+    {
+      "number": "20",
+      "position": "4FW",
+      "name": "Yoane Wissa"
+    },
+    {
+      "number": "21",
+      "position": "1GK",
+      "name": "Matthieu Epolo"
+    },
+    {
+      "number": "22",
+      "position": "2DF",
+      "name": "Chancel Mbemba (captain)"
+    },
+    {
+      "number": "23",
+      "position": "4FW",
+      "name": "Simon Banza"
+    },
+    {
+      "number": "24",
+      "position": "2DF",
+      "name": "Gédéon Kalulu"
+    },
+    {
+      "number": "25",
+      "position": "3MF",
+      "name": "Edo Kayembe"
+    },
+    {
+      "number": "26",
+      "position": "2DF",
+      "name": "Arthur Masuaku"
+    }
+  ],
+  "Croatia": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Dominik Livaković"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Josip Stanišić"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Marin Pongračić"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Joško Gvardiol"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Duje Ćaleta-Car"
+    },
+    {
+      "number": "6",
+      "position": "2DF",
+      "name": "Josip Šutalo"
+    },
+    {
+      "number": "7",
+      "position": "3MF",
+      "name": "Nikola Moro"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Mateo Kovačić"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Andrej Kramarić"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "Luka Modrić (captain)"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Ante Budimir"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Ivor Pandur"
+    },
+    {
+      "number": "13",
+      "position": "3MF",
+      "name": "Nikola Vlašić"
+    },
+    {
+      "number": "14",
+      "position": "4FW",
+      "name": "Ivan Perišić"
+    },
+    {
+      "number": "15",
+      "position": "3MF",
+      "name": "Mario Pašalić"
+    },
+    {
+      "number": "16",
+      "position": "3MF",
+      "name": "Martin Baturina"
+    },
+    {
+      "number": "17",
+      "position": "3MF",
+      "name": "Petar Sučić"
+    },
+    {
+      "number": "18",
+      "position": "2DF",
+      "name": "Kristijan Jakić"
+    },
+    {
+      "number": "19",
+      "position": "3MF",
+      "name": "Toni Fruk"
+    },
+    {
+      "number": "20",
+      "position": "4FW",
+      "name": "Igor Matanović"
+    },
+    {
+      "number": "21",
+      "position": "3MF",
+      "name": "Luka Sučić"
+    },
+    {
+      "number": "22",
+      "position": "2DF",
+      "name": "Luka Vušković"
+    },
+    {
+      "number": "23",
+      "position": "1GK",
+      "name": "Dominik Kotarski"
+    },
+    {
+      "number": "24",
+      "position": "4FW",
+      "name": "Marco Pašalić"
+    },
+    {
+      "number": "25",
+      "position": "2DF",
+      "name": "Martin Erlić"
+    },
+    {
+      "number": "26",
+      "position": "4FW",
+      "name": "Petar Musa"
+    }
+  ],
+  "Czechia": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Matěj Kovář"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "David Zima"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Tomáš Holeš"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Robin Hranáč"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Vladimír Coufal"
+    },
+    {
+      "number": "6",
+      "position": "2DF",
+      "name": "Štěpán Chaloupek"
+    },
+    {
+      "number": "7",
+      "position": "2DF",
+      "name": "Ladislav Krejčí (captain)"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Vladimír Darida"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Adam Hložek"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Patrik Schick"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Jan Kuchta"
+    },
+    {
+      "number": "12",
+      "position": "3MF",
+      "name": "Lukáš Červ"
+    },
+    {
+      "number": "13",
+      "position": "4FW",
+      "name": "Mojmír Chytil"
+    },
+    {
+      "number": "14",
+      "position": "2DF",
+      "name": "David Jurásek"
+    },
+    {
+      "number": "15",
+      "position": "4FW",
+      "name": "Pavel Šulc"
+    },
+    {
+      "number": "16",
+      "position": "1GK",
+      "name": "Jindřich Staněk"
+    },
+    {
+      "number": "17",
+      "position": "3MF",
+      "name": "Lukáš Provod"
+    },
+    {
+      "number": "18",
+      "position": "3MF",
+      "name": "Michal Sadílek"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Tomáš Chorý"
+    },
+    {
+      "number": "20",
+      "position": "2DF",
+      "name": "Jaroslav Zelený"
+    },
+    {
+      "number": "21",
+      "position": "2DF",
+      "name": "David Douděra"
+    },
+    {
+      "number": "22",
+      "position": "3MF",
+      "name": "Tomáš Souček"
+    },
+    {
+      "number": "23",
+      "position": "1GK",
+      "name": "Lukáš Horníček"
+    },
+    {
+      "number": "24",
+      "position": "3MF",
+      "name": "Alexandr Sojka"
+    },
+    {
+      "number": "25",
+      "position": "3MF",
+      "name": "Hugo Sochůrek"
+    },
+    {
+      "number": "26",
+      "position": "4FW",
+      "name": "Denis Višinský"
+    }
+  ],
+  "Côte d'Ivoire": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Yahia Fofana"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Ousmane Diomande"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Ghislain Konan"
+    },
+    {
+      "number": "4",
+      "position": "3MF",
+      "name": "Jean Michaël Seri"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Wilfried Singo"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Seko Fofana"
+    },
+    {
+      "number": "7",
+      "position": "2DF",
+      "name": "Odilon Kossounou"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Franck Kessié (captain)"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Ange-Yoan Bonny"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Simon Adingra"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Yan Diomande"
+    },
+    {
+      "number": "12",
+      "position": "4FW",
+      "name": "Elye Wahi"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Christopher Opéri"
+    },
+    {
+      "number": "14",
+      "position": "4FW",
+      "name": "Oumar Diakité"
+    },
+    {
+      "number": "15",
+      "position": "4FW",
+      "name": "Amad Diallo"
+    },
+    {
+      "number": "16",
+      "position": "1GK",
+      "name": "Mohamed Koné"
+    },
+    {
+      "number": "17",
+      "position": "2DF",
+      "name": "Guéla Doué"
+    },
+    {
+      "number": "18",
+      "position": "3MF",
+      "name": "Ibrahim Sangaré"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Nicolas Pépé"
+    },
+    {
+      "number": "20",
+      "position": "2DF",
+      "name": "Emmanuel Agbadou"
+    },
+    {
+      "number": "21",
+      "position": "2DF",
+      "name": "Evan Ndicka"
+    },
+    {
+      "number": "22",
+      "position": "4FW",
+      "name": "Evann Guessand"
+    },
+    {
+      "number": "23",
+      "position": "1GK",
+      "name": "Alban Lafont"
+    },
+    {
+      "number": "24",
+      "position": "4FW",
+      "name": "Bazoumana Touré"
+    },
+    {
+      "number": "25",
+      "position": "3MF",
+      "name": "Parfait Guiagon"
+    },
+    {
+      "number": "26",
+      "position": "3MF",
+      "name": "Christ Inao Oulaï"
+    }
+  ],
+  "Ecuador": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Hernán Galíndez"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Félix Torres"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Piero Hincapié"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Joel Ordóñez"
+    },
+    {
+      "number": "5",
+      "position": "3MF",
+      "name": "Jordy Alcívar"
+    },
+    {
+      "number": "6",
+      "position": "2DF",
+      "name": "Willian Pacho"
+    },
+    {
+      "number": "7",
+      "position": "2DF",
+      "name": "Pervis Estupiñán"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Anthony Valencia"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "John Yeboah"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "Kendry Páez"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Kevin Rodríguez"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Moisés Ramírez"
+    },
+    {
+      "number": "13",
+      "position": "4FW",
+      "name": "Enner Valencia (captain)"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Alan Minda"
+    },
+    {
+      "number": "15",
+      "position": "3MF",
+      "name": "Pedro Vite"
+    },
+    {
+      "number": "16",
+      "position": "4FW",
+      "name": "Jordy Caicedo"
+    },
+    {
+      "number": "17",
+      "position": "2DF",
+      "name": "Ángelo Preciado"
+    },
+    {
+      "number": "18",
+      "position": "3MF",
+      "name": "Denil Castillo"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Gonzalo Plata"
+    },
+    {
+      "number": "20",
+      "position": "4FW",
+      "name": "Nilson Angulo"
+    },
+    {
+      "number": "21",
+      "position": "3MF",
+      "name": "Alan Franco"
+    },
+    {
+      "number": "22",
+      "position": "1GK",
+      "name": "Gonzalo Valle"
+    },
+    {
+      "number": "23",
+      "position": "3MF",
+      "name": "Moisés Caicedo"
+    },
+    {
+      "number": "24",
+      "position": "4FW",
+      "name": "Jeremy Arévalo"
+    },
+    {
+      "number": "25",
+      "position": "2DF",
+      "name": "Jackson Porozo"
+    },
+    {
+      "number": "26",
+      "position": "2DF",
+      "name": "Yaimar Medina"
+    }
+  ],
+  "Egypt": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Mohamed El Shenawy"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Yasser Ibrahim"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Mohamed Hany"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Hossam Abdelmaguid"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Ramy Rabia"
+    },
+    {
+      "number": "6",
+      "position": "2DF",
+      "name": "Mohamed Abdelmonem"
+    },
+    {
+      "number": "7",
+      "position": "4FW",
+      "name": "Trézéguet"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Emam Ashour"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Hamza Abdelkarim"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Mohamed Salah (captain)"
+    },
+    {
+      "number": "11",
+      "position": "3MF",
+      "name": "Mostafa Ziko"
+    },
+    {
+      "number": "12",
+      "position": "4FW",
+      "name": "Haissem Hassan"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Ahmed Fatouh"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Hamdy Fathy"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "Karim Hafez"
+    },
+    {
+      "number": "16",
+      "position": "1GK",
+      "name": "El Mahdy Soliman"
+    },
+    {
+      "number": "17",
+      "position": "3MF",
+      "name": "Mohanad Lasheen"
+    },
+    {
+      "number": "18",
+      "position": "3MF",
+      "name": "Nabil Emad"
+    },
+    {
+      "number": "19",
+      "position": "3MF",
+      "name": "Marwan Attia"
+    },
+    {
+      "number": "20",
+      "position": "4FW",
+      "name": "Ibrahim Adel"
+    },
+    {
+      "number": "21",
+      "position": "3MF",
+      "name": "Mahmoud Saber"
+    },
+    {
+      "number": "22",
+      "position": "4FW",
+      "name": "Omar Marmoush"
+    },
+    {
+      "number": "23",
+      "position": "1GK",
+      "name": "Mostafa Shobeir"
+    },
+    {
+      "number": "24",
+      "position": "2DF",
+      "name": "Tarek Alaa"
+    },
+    {
+      "number": "25",
+      "position": "4FW",
+      "name": "Zizo"
+    },
+    {
+      "number": "26",
+      "position": "1GK",
+      "name": "Mohamed Alaa"
+    }
+  ],
+  "England": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Jordan Pickford"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Ezri Konsa"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Nico O'Reilly"
+    },
+    {
+      "number": "4",
+      "position": "3MF",
+      "name": "Declan Rice"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "John Stones"
+    },
+    {
+      "number": "6",
+      "position": "2DF",
+      "name": "Marc Guéhi"
+    },
+    {
+      "number": "7",
+      "position": "4FW",
+      "name": "Bukayo Saka"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Elliot Anderson"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Harry Kane (captain)"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "Jude Bellingham"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Marcus Rashford"
+    },
+    {
+      "number": "12",
+      "position": "2DF",
+      "name": "Tino Livramento"
+    },
+    {
+      "number": "13",
+      "position": "1GK",
+      "name": "Dean Henderson"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Jordan Henderson"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "Dan Burn"
+    },
+    {
+      "number": "16",
+      "position": "3MF",
+      "name": "Kobbie Mainoo"
+    },
+    {
+      "number": "17",
+      "position": "3MF",
+      "name": "Morgan Rogers"
+    },
+    {
+      "number": "18",
+      "position": "4FW",
+      "name": "Anthony Gordon"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Ollie Watkins"
+    },
+    {
+      "number": "20",
+      "position": "4FW",
+      "name": "Noni Madueke"
+    },
+    {
+      "number": "21",
+      "position": "3MF",
+      "name": "Eberechi Eze"
+    },
+    {
+      "number": "22",
+      "position": "4FW",
+      "name": "Ivan Toney"
+    },
+    {
+      "number": "23",
+      "position": "1GK",
+      "name": "James Trafford"
+    },
+    {
+      "number": "24",
+      "position": "2DF",
+      "name": "Reece James"
+    },
+    {
+      "number": "25",
+      "position": "2DF",
+      "name": "Djed Spence"
+    },
+    {
+      "number": "26",
+      "position": "2DF",
+      "name": "Jarell Quansah"
+    }
+  ],
+  "France": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Brice Samba"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Malo Gusto"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Lucas Digne"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Dayot Upamecano"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Jules Koundé"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Manu Koné"
+    },
+    {
+      "number": "7",
+      "position": "4FW",
+      "name": "Ousmane Dembélé"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Aurélien Tchouaméni"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Marcus Thuram"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Kylian Mbappé (captain)"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Michael Olise"
+    },
+    {
+      "number": "12",
+      "position": "4FW",
+      "name": "Bradley Barcola"
+    },
+    {
+      "number": "13",
+      "position": "3MF",
+      "name": "N'Golo Kanté"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Adrien Rabiot"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "Ibrahima Konaté"
+    },
+    {
+      "number": "16",
+      "position": "1GK",
+      "name": "Mike Maignan"
+    },
+    {
+      "number": "17",
+      "position": "2DF",
+      "name": "William Saliba"
+    },
+    {
+      "number": "18",
+      "position": "3MF",
+      "name": "Warren Zaïre-Emery"
+    },
+    {
+      "number": "19",
+      "position": "2DF",
+      "name": "Théo Hernandez"
+    },
+    {
+      "number": "20",
+      "position": "4FW",
+      "name": "Désiré Doué"
+    },
+    {
+      "number": "21",
+      "position": "2DF",
+      "name": "Lucas Hernandez"
+    },
+    {
+      "number": "22",
+      "position": "4FW",
+      "name": "Jean-Philippe Mateta"
+    },
+    {
+      "number": "23",
+      "position": "1GK",
+      "name": "Robin Risser"
+    },
+    {
+      "number": "24",
+      "position": "3MF",
+      "name": "Rayan Cherki"
+    },
+    {
+      "number": "25",
+      "position": "3MF",
+      "name": "Maghnes Akliouche"
+    },
+    {
+      "number": "26",
+      "position": "2DF",
+      "name": "Maxence Lacroix"
+    }
+  ],
+  "Germany": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Manuel Neuer"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Antonio Rüdiger"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Waldemar Anton"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Jonathan Tah"
+    },
+    {
+      "number": "5",
+      "position": "3MF",
+      "name": "Aleksandar Pavlović"
+    },
+    {
+      "number": "6",
+      "position": "2DF",
+      "name": "Joshua Kimmich (captain)"
+    },
+    {
+      "number": "7",
+      "position": "4FW",
+      "name": "Kai Havertz"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Leon Goretzka"
+    },
+    {
+      "number": "9",
+      "position": "3MF",
+      "name": "Jamie Leweling"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "Jamal Musiala"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Nick Woltemade"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Oliver Baumann"
+    },
+    {
+      "number": "13",
+      "position": "3MF",
+      "name": "Pascal Groß"
+    },
+    {
+      "number": "14",
+      "position": "4FW",
+      "name": "Maximilian Beier"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "Nico Schlotterbeck"
+    },
+    {
+      "number": "16",
+      "position": "3MF",
+      "name": "Angelo Stiller"
+    },
+    {
+      "number": "17",
+      "position": "3MF",
+      "name": "Florian Wirtz"
+    },
+    {
+      "number": "18",
+      "position": "2DF",
+      "name": "Nathaniel Brown"
+    },
+    {
+      "number": "19",
+      "position": "3MF",
+      "name": "Leroy Sané"
+    },
+    {
+      "number": "20",
+      "position": "3MF",
+      "name": "Nadiem Amiri"
+    },
+    {
+      "number": "21",
+      "position": "1GK",
+      "name": "Alexander Nübel"
+    },
+    {
+      "number": "22",
+      "position": "2DF",
+      "name": "David Raum"
+    },
+    {
+      "number": "23",
+      "position": "3MF",
+      "name": "Felix Nmecha"
+    },
+    {
+      "number": "24",
+      "position": "2DF",
+      "name": "Malick Thiaw"
+    },
+    {
+      "number": "25",
+      "position": "3MF",
+      "name": "Assan Ouédraogo"
+    },
+    {
+      "number": "26",
+      "position": "4FW",
+      "name": "Deniz Undav"
+    }
+  ],
+  "Ghana": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Lawrence Ati-Zigi"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Alidu Seidu"
+    },
+    {
+      "number": "3",
+      "position": "3MF",
+      "name": "Caleb Yirenkyi"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Jonas Adjetey"
+    },
+    {
+      "number": "5",
+      "position": "3MF",
+      "name": "Thomas Partey"
+    },
+    {
+      "number": "6",
+      "position": "2DF",
+      "name": "Abdul Mumin"
+    },
+    {
+      "number": "7",
+      "position": "4FW",
+      "name": "Abdul Fatawu"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Kwasi Sibo"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Jordan Ayew (captain)"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Brandon Thomas-Asante"
+    },
+    {
+      "number": "11",
+      "position": "3MF",
+      "name": "Antoine Semenyo"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Joseph Anang"
+    },
+    {
+      "number": "13",
+      "position": "4FW",
+      "name": "Christopher Bonsu Baah"
+    },
+    {
+      "number": "14",
+      "position": "2DF",
+      "name": "Gideon Mensah"
+    },
+    {
+      "number": "15",
+      "position": "3MF",
+      "name": "Elisha Owusu"
+    },
+    {
+      "number": "16",
+      "position": "1GK",
+      "name": "Benjamin Asare"
+    },
+    {
+      "number": "17",
+      "position": "2DF",
+      "name": "Abdul Rahman Baba"
+    },
+    {
+      "number": "18",
+      "position": "2DF",
+      "name": "Jerome Opoku"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Iñaki Williams"
+    },
+    {
+      "number": "20",
+      "position": "3MF",
+      "name": "Augustine Boakye"
+    },
+    {
+      "number": "21",
+      "position": "2DF",
+      "name": "Kojo Peprah Oppong"
+    },
+    {
+      "number": "22",
+      "position": "4FW",
+      "name": "Kamaldeen Sulemana"
+    },
+    {
+      "number": "23",
+      "position": "2DF",
+      "name": "Derrick Luckassen"
+    },
+    {
+      "number": "24",
+      "position": "4FW",
+      "name": "Ernest Nuamah"
+    },
+    {
+      "number": "25",
+      "position": "4FW",
+      "name": "Prince Kwabena Adu"
+    },
+    {
+      "number": "26",
+      "position": "2DF",
+      "name": "Marvin Senaya"
+    }
+  ],
+  "Haiti": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Johny Placide (captain)"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Carlens Arcus"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Keeto Thermoncy"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Ricardo Adé"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Hannes Delcroix"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Carl Sainté"
+    },
+    {
+      "number": "7",
+      "position": "4FW",
+      "name": "Derrick Etienne Jr."
+    },
+    {
+      "number": "8",
+      "position": "2DF",
+      "name": "Martin Expérience"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Duckens Nazon"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "Jean-Ricner Bellegarde"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Louicius Deedson"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Alexandre Pierre"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Duke Lacroix"
+    },
+    {
+      "number": "14",
+      "position": "2DF",
+      "name": "Garven Metusala"
+    },
+    {
+      "number": "15",
+      "position": "4FW",
+      "name": "Ruben Providence"
+    },
+    {
+      "number": "16",
+      "position": "4FW",
+      "name": "Lenny Joseph"
+    },
+    {
+      "number": "17",
+      "position": "3MF",
+      "name": "Danley Jean Jacques"
+    },
+    {
+      "number": "18",
+      "position": "4FW",
+      "name": "Wilson Isidor"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Yassin Fortuné"
+    },
+    {
+      "number": "20",
+      "position": "4FW",
+      "name": "Frantzdy Pierrot"
+    },
+    {
+      "number": "21",
+      "position": "4FW",
+      "name": "Josué Casimir"
+    },
+    {
+      "number": "22",
+      "position": "2DF",
+      "name": "Jean-Kévin Duverne"
+    },
+    {
+      "number": "23",
+      "position": "1GK",
+      "name": "Josué Duverger"
+    },
+    {
+      "number": "24",
+      "position": "2DF",
+      "name": "Wilguens Paugain"
+    },
+    {
+      "number": "25",
+      "position": "3MF",
+      "name": "Dominique Simon"
+    },
+    {
+      "number": "26",
+      "position": "3MF",
+      "name": "Woodensky Pierre"
+    }
+  ],
+  "IR Iran": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Alireza Beiranvand"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Saleh Hardani"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Ehsan Hajsafi (captain)"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Shojae Khalilzadeh"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Milad Mohammadi"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Saeid Ezatolahi"
+    },
+    {
+      "number": "7",
+      "position": "3MF",
+      "name": "Alireza Jahanbakhsh"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Mohammad Mohebi"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Mehdi Taremi"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Mehdi Ghayedi"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Ali Alipour"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Payam Niazmand"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Hossein Kanaanizadegan"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Saman Ghoddos"
+    },
+    {
+      "number": "15",
+      "position": "3MF",
+      "name": "Rouzbeh Cheshmi"
+    },
+    {
+      "number": "16",
+      "position": "3MF",
+      "name": "Mehdi Torabi"
+    },
+    {
+      "number": "17",
+      "position": "2DF",
+      "name": "Aria Yousefi"
+    },
+    {
+      "number": "18",
+      "position": "4FW",
+      "name": "Amirhossein Hosseinzadeh"
+    },
+    {
+      "number": "19",
+      "position": "2DF",
+      "name": "Ali Nemati"
+    },
+    {
+      "number": "20",
+      "position": "4FW",
+      "name": "Shahriyar Moghanlou"
+    },
+    {
+      "number": "21",
+      "position": "3MF",
+      "name": "Mohammad Ghorbani"
+    },
+    {
+      "number": "22",
+      "position": "1GK",
+      "name": "Hossein Hosseini"
+    },
+    {
+      "number": "23",
+      "position": "2DF",
+      "name": "Ramin Rezaeian"
+    },
+    {
+      "number": "24",
+      "position": "4FW",
+      "name": "Dennis Eckert"
+    },
+    {
+      "number": "25",
+      "position": "2DF",
+      "name": "Danial Eiri"
+    },
+    {
+      "number": "26",
+      "position": "3MF",
+      "name": "Amirmohammad Razzaghinia"
+    }
+  ],
+  "Iraq": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Fahad Talib"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Rebin Sulaka"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Hussein Ali"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Zaid Tahseen"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Akam Hashim"
+    },
+    {
+      "number": "6",
+      "position": "2DF",
+      "name": "Manaf Younis"
+    },
+    {
+      "number": "7",
+      "position": "3MF",
+      "name": "Youssef Amyn"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Ibrahim Bayesh"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Ali Al-Hamadi"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Mohanad Ali"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Ahmed Qasem"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Jalal Hassan (captain)"
+    },
+    {
+      "number": "13",
+      "position": "4FW",
+      "name": "Ali Yousif"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Zidane Iqbal"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "Ahmed Maknzi"
+    },
+    {
+      "number": "16",
+      "position": "3MF",
+      "name": "Amir Al-Ammari"
+    },
+    {
+      "number": "17",
+      "position": "4FW",
+      "name": "Ali Jasim"
+    },
+    {
+      "number": "18",
+      "position": "4FW",
+      "name": "Aymen Hussein"
+    },
+    {
+      "number": "19",
+      "position": "3MF",
+      "name": "Kevin Yakob"
+    },
+    {
+      "number": "20",
+      "position": "3MF",
+      "name": "Aimar Sher"
+    },
+    {
+      "number": "21",
+      "position": "4FW",
+      "name": "Marko Farji"
+    },
+    {
+      "number": "22",
+      "position": "1GK",
+      "name": "Ahmed Basil"
+    },
+    {
+      "number": "23",
+      "position": "2DF",
+      "name": "Merchas Doski"
+    },
+    {
+      "number": "24",
+      "position": "3MF",
+      "name": "Zaid Ismail"
+    },
+    {
+      "number": "25",
+      "position": "2DF",
+      "name": "Mustafa Saadoon"
+    },
+    {
+      "number": "26",
+      "position": "2DF",
+      "name": "Frans Putros"
+    }
+  ],
+  "Japan": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Zion Suzuki"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Yukinari Sugawara"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Shōgo Taniguchi"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Kō Itakura (captain)"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Yūto Nagatomo"
+    },
+    {
+      "number": "6",
+      "position": "4FW",
+      "name": "Shuto Machino"
+    },
+    {
+      "number": "7",
+      "position": "3MF",
+      "name": "Ao Tanaka"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Takefusa Kubo"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Keisuke Gotō"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "Ritsu Dōan"
+    },
+    {
+      "number": "11",
+      "position": "3MF",
+      "name": "Daizen Maeda"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Keisuke Ōsako"
+    },
+    {
+      "number": "13",
+      "position": "3MF",
+      "name": "Keito Nakamura"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Junya Itō"
+    },
+    {
+      "number": "15",
+      "position": "3MF",
+      "name": "Daichi Kamada"
+    },
+    {
+      "number": "16",
+      "position": "2DF",
+      "name": "Tsuyoshi Watanabe"
+    },
+    {
+      "number": "17",
+      "position": "3MF",
+      "name": "Yuito Suzuki"
+    },
+    {
+      "number": "18",
+      "position": "4FW",
+      "name": "Ayase Ueda"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Kōki Ogawa"
+    },
+    {
+      "number": "20",
+      "position": "2DF",
+      "name": "Ayumu Seko"
+    },
+    {
+      "number": "21",
+      "position": "2DF",
+      "name": "Hiroki Itō"
+    },
+    {
+      "number": "22",
+      "position": "2DF",
+      "name": "Takehiro Tomiyasu"
+    },
+    {
+      "number": "23",
+      "position": "1GK",
+      "name": "Tomoki Hayakawa"
+    },
+    {
+      "number": "24",
+      "position": "3MF",
+      "name": "Kaishū Sano"
+    },
+    {
+      "number": "25",
+      "position": "2DF",
+      "name": "Junnosuke Suzuki"
+    },
+    {
+      "number": "26",
+      "position": "4FW",
+      "name": "Kento Shiogai"
+    }
+  ],
+  "Jordan": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Yazeed Abulaila"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Mohammad Abu Hashish"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Abdallah Nasib"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Husam Abu Dahab"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Yazan Al-Arab"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Amer Jamous"
+    },
+    {
+      "number": "7",
+      "position": "4FW",
+      "name": "Mohammad Abu Zrayq"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Noor Al-Rawabdeh"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Ali Olwan"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Musa Al-Taamari"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Odeh Al-Fakhouri"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Nour Bani Attiah"
+    },
+    {
+      "number": "13",
+      "position": "4FW",
+      "name": "Mahmoud Al-Mardi"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Rajaei Ayed"
+    },
+    {
+      "number": "15",
+      "position": "3MF",
+      "name": "Ibrahim Sadeh"
+    },
+    {
+      "number": "16",
+      "position": "2DF",
+      "name": "Mo Abualnadi"
+    },
+    {
+      "number": "17",
+      "position": "2DF",
+      "name": "Salim Obaid"
+    },
+    {
+      "number": "18",
+      "position": "3MF",
+      "name": "Mohammad Taha"
+    },
+    {
+      "number": "19",
+      "position": "2DF",
+      "name": "Saed Al-Rosan"
+    },
+    {
+      "number": "20",
+      "position": "3MF",
+      "name": "Mohannad Abu Taha"
+    },
+    {
+      "number": "21",
+      "position": "3MF",
+      "name": "Nizar Al-Rashdan"
+    },
+    {
+      "number": "22",
+      "position": "1GK",
+      "name": "Abdallah Al-Fakhouri"
+    },
+    {
+      "number": "23",
+      "position": "2DF",
+      "name": "Ihsan Haddad (captain)"
+    },
+    {
+      "number": "24",
+      "position": "4FW",
+      "name": "Ali Azaizeh"
+    },
+    {
+      "number": "25",
+      "position": "3MF",
+      "name": "Mohammad Al-Dawoud"
+    },
+    {
+      "number": "26",
+      "position": "2DF",
+      "name": "Anas Badawi"
+    }
+  ],
+  "Korea Republic": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Kim Seung-gyu"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Lee Han-beom"
+    },
+    {
+      "number": "3",
+      "position": "3MF",
+      "name": "Lee Gi-hyuk"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Kim Min-jae"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Kim Tae-hyeon"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Hwang In-beom"
+    },
+    {
+      "number": "7",
+      "position": "4FW",
+      "name": "Son Heung-min (captain)"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Paik Seung-ho"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Cho Gue-sung"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "Lee Jae-sung"
+    },
+    {
+      "number": "11",
+      "position": "3MF",
+      "name": "Hwang Hee-chan"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Song Bum-keun"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Lee Tae-seok"
+    },
+    {
+      "number": "14",
+      "position": "2DF",
+      "name": "Cho Wi-je"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "Kim Moon-hwan"
+    },
+    {
+      "number": "16",
+      "position": "2DF",
+      "name": "Park Jin-seob"
+    },
+    {
+      "number": "17",
+      "position": "3MF",
+      "name": "Bae Jun-ho"
+    },
+    {
+      "number": "18",
+      "position": "4FW",
+      "name": "Oh Hyeon-gyu"
+    },
+    {
+      "number": "19",
+      "position": "3MF",
+      "name": "Lee Kang-in"
+    },
+    {
+      "number": "20",
+      "position": "3MF",
+      "name": "Yang Hyun-jun"
+    },
+    {
+      "number": "21",
+      "position": "1GK",
+      "name": "Jo Hyeon-woo"
+    },
+    {
+      "number": "22",
+      "position": "2DF",
+      "name": "Seol Young-woo"
+    },
+    {
+      "number": "23",
+      "position": "2DF",
+      "name": "Jens Castrop"
+    },
+    {
+      "number": "24",
+      "position": "3MF",
+      "name": "Kim Jin-gyu"
+    },
+    {
+      "number": "25",
+      "position": "3MF",
+      "name": "Eom Ji-sung"
+    },
+    {
+      "number": "26",
+      "position": "3MF",
+      "name": "Lee Dong-gyeong"
+    }
+  ],
+  "Mexico": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Raúl Rangel"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Jorge Sánchez"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "César Montes"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Edson Álvarez (captain)"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Johan Vásquez"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Érik Lira"
+    },
+    {
+      "number": "7",
+      "position": "3MF",
+      "name": "Luis Romo"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Álvaro Fidalgo"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Raúl Jiménez"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Alexis Vega"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Santiago Giménez"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Carlos Acevedo"
+    },
+    {
+      "number": "13",
+      "position": "1GK",
+      "name": "Guillermo Ochoa"
+    },
+    {
+      "number": "14",
+      "position": "4FW",
+      "name": "Armando González"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "Israel Reyes"
+    },
+    {
+      "number": "16",
+      "position": "4FW",
+      "name": "Julián Quiñones"
+    },
+    {
+      "number": "17",
+      "position": "3MF",
+      "name": "Orbelín Pineda"
+    },
+    {
+      "number": "18",
+      "position": "3MF",
+      "name": "Obed Vargas"
+    },
+    {
+      "number": "19",
+      "position": "3MF",
+      "name": "Gilberto Mora"
+    },
+    {
+      "number": "20",
+      "position": "2DF",
+      "name": "Mateo Chávez"
+    },
+    {
+      "number": "21",
+      "position": "4FW",
+      "name": "César Huerta"
+    },
+    {
+      "number": "22",
+      "position": "4FW",
+      "name": "Guillermo Martínez"
+    },
+    {
+      "number": "23",
+      "position": "2DF",
+      "name": "Jesús Gallardo"
+    },
+    {
+      "number": "24",
+      "position": "3MF",
+      "name": "Luis Chávez"
+    },
+    {
+      "number": "25",
+      "position": "4FW",
+      "name": "Roberto Alvarado"
+    },
+    {
+      "number": "26",
+      "position": "3MF",
+      "name": "Brian Gutiérrez"
+    }
+  ],
+  "Morocco": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Yassine Bounou"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Achraf Hakimi (captain)"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Noussair Mazraoui"
+    },
+    {
+      "number": "4",
+      "position": "3MF",
+      "name": "Sofyan Amrabat"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Marwane Saâdane"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Ayyoub Bouaddi"
+    },
+    {
+      "number": "7",
+      "position": "3MF",
+      "name": "Chemsdine Talbi"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Azzedine Ounahi"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Soufiane Rahimi"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Brahim Díaz"
+    },
+    {
+      "number": "11",
+      "position": "3MF",
+      "name": "Ismael Saibari"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Munir Mohamedi"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Zakaria El Ouahdi"
+    },
+    {
+      "number": "14",
+      "position": "2DF",
+      "name": "Issa Diop"
+    },
+    {
+      "number": "15",
+      "position": "3MF",
+      "name": "Samir El Mourabet"
+    },
+    {
+      "number": "16",
+      "position": "3MF",
+      "name": "Gessime Yassine"
+    },
+    {
+      "number": "17",
+      "position": "4FW",
+      "name": "Amine Sbaï"
+    },
+    {
+      "number": "18",
+      "position": "2DF",
+      "name": "Chadi Riad"
+    },
+    {
+      "number": "19",
+      "position": "2DF",
+      "name": "Youssef Belammari"
+    },
+    {
+      "number": "20",
+      "position": "4FW",
+      "name": "Ayoub El Kaabi"
+    },
+    {
+      "number": "21",
+      "position": "4FW",
+      "name": "Ayoube Amaimouni"
+    },
+    {
+      "number": "22",
+      "position": "1GK",
+      "name": "Ahmed Reda Tagnaouti"
+    },
+    {
+      "number": "23",
+      "position": "3MF",
+      "name": "Bilal El Khannouss"
+    },
+    {
+      "number": "24",
+      "position": "3MF",
+      "name": "Neil El Aynaoui"
+    },
+    {
+      "number": "25",
+      "position": "2DF",
+      "name": "Redouane Halhal"
+    },
+    {
+      "number": "26",
+      "position": "2DF",
+      "name": "Anass Salah-Eddine"
+    }
+  ],
+  "Netherlands": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Bart Verbruggen"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Lutsharel Geertruida"
+    },
+    {
+      "number": "3",
+      "position": "3MF",
+      "name": "Marten de Roon"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Virgil van Dijk (captain)"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Nathan Aké"
+    },
+    {
+      "number": "6",
+      "position": "2DF",
+      "name": "Jan Paul van Hecke"
+    },
+    {
+      "number": "7",
+      "position": "3MF",
+      "name": "Justin Kluivert"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Ryan Gravenberch"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Wout Weghorst"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Memphis Depay"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Cody Gakpo"
+    },
+    {
+      "number": "12",
+      "position": "2DF",
+      "name": "Mats Wieffer"
+    },
+    {
+      "number": "13",
+      "position": "1GK",
+      "name": "Robin Roefs"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Tijjani Reijnders"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "Micky van de Ven"
+    },
+    {
+      "number": "16",
+      "position": "3MF",
+      "name": "Guus Til"
+    },
+    {
+      "number": "17",
+      "position": "4FW",
+      "name": "Noa Lang"
+    },
+    {
+      "number": "18",
+      "position": "4FW",
+      "name": "Donyell Malen"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Brian Brobbey"
+    },
+    {
+      "number": "20",
+      "position": "3MF",
+      "name": "Teun Koopmeiners"
+    },
+    {
+      "number": "21",
+      "position": "3MF",
+      "name": "Frenkie de Jong"
+    },
+    {
+      "number": "22",
+      "position": "2DF",
+      "name": "Denzel Dumfries"
+    },
+    {
+      "number": "23",
+      "position": "1GK",
+      "name": "Mark Flekken"
+    },
+    {
+      "number": "24",
+      "position": "4FW",
+      "name": "Crysencio Summerville"
+    },
+    {
+      "number": "25",
+      "position": "2DF",
+      "name": "Jorrel Hato"
+    },
+    {
+      "number": "26",
+      "position": "3MF",
+      "name": "Quinten Timber"
+    }
+  ],
+  "New Zealand": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Max Crocombe"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Tim Payne"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Francis de Vries"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Tyler Bindon"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Michael Boxall"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Joe Bell"
+    },
+    {
+      "number": "7",
+      "position": "3MF",
+      "name": "Matthew Garbett"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Marko Stamenić"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Chris Wood (captain)"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "Sarpreet Singh"
+    },
+    {
+      "number": "11",
+      "position": "3MF",
+      "name": "Elijah Just"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Alex Paulsen"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Liberato Cacace"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Alex Rufer"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "Nando Pijnaker"
+    },
+    {
+      "number": "16",
+      "position": "2DF",
+      "name": "Finn Surman"
+    },
+    {
+      "number": "17",
+      "position": "4FW",
+      "name": "Kosta Barbarouses"
+    },
+    {
+      "number": "18",
+      "position": "4FW",
+      "name": "Ben Waine"
+    },
+    {
+      "number": "19",
+      "position": "3MF",
+      "name": "Ben Old"
+    },
+    {
+      "number": "20",
+      "position": "3MF",
+      "name": "Callum McCowatt"
+    },
+    {
+      "number": "21",
+      "position": "4FW",
+      "name": "Jesse Randall"
+    },
+    {
+      "number": "22",
+      "position": "1GK",
+      "name": "Michael Woud"
+    },
+    {
+      "number": "23",
+      "position": "3MF",
+      "name": "Ryan Thomas"
+    },
+    {
+      "number": "24",
+      "position": "2DF",
+      "name": "Callan Elliot"
+    },
+    {
+      "number": "25",
+      "position": "3MF",
+      "name": "Lachlan Bayliss"
+    },
+    {
+      "number": "26",
+      "position": "2DF",
+      "name": "Tommy Smith"
+    }
+  ],
+  "Norway": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Ørjan Nyland"
+    },
+    {
+      "number": "2",
+      "position": "3MF",
+      "name": "Morten Thorsby"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Kristoffer Ajer"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Leo Østigård"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "David Møller Wolfe"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Patrick Berg"
+    },
+    {
+      "number": "7",
+      "position": "4FW",
+      "name": "Alexander Sørloth"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Sander Berge"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Erling Haaland"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "Martin Ødegaard (captain)"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Jørgen Strand Larsen"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Sander Tangvik"
+    },
+    {
+      "number": "13",
+      "position": "1GK",
+      "name": "Egil Selvik"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Fredrik Aursnes"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "Fredrik André Bjørkan"
+    },
+    {
+      "number": "16",
+      "position": "2DF",
+      "name": "Marcus Holmgren Pedersen"
+    },
+    {
+      "number": "17",
+      "position": "2DF",
+      "name": "Torbjørn Heggem"
+    },
+    {
+      "number": "18",
+      "position": "3MF",
+      "name": "Kristian Thorstvedt"
+    },
+    {
+      "number": "19",
+      "position": "3MF",
+      "name": "Thelo Aasgaard"
+    },
+    {
+      "number": "20",
+      "position": "4FW",
+      "name": "Antonio Nusa"
+    },
+    {
+      "number": "21",
+      "position": "3MF",
+      "name": "Andreas Schjelderup"
+    },
+    {
+      "number": "22",
+      "position": "3MF",
+      "name": "Oscar Bobb"
+    },
+    {
+      "number": "23",
+      "position": "3MF",
+      "name": "Jens Petter Hauge"
+    },
+    {
+      "number": "24",
+      "position": "2DF",
+      "name": "Sondre Langås"
+    },
+    {
+      "number": "25",
+      "position": "2DF",
+      "name": "Henrik Falchener"
+    },
+    {
+      "number": "26",
+      "position": "4FW",
+      "name": "Julian Ryerson"
+    }
+  ],
+  "Panama": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Luis Mejía"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "César Blackman"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "José Córdoba"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Fidel Escobar"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Edgardo Fariña"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Cristian Martínez"
+    },
+    {
+      "number": "7",
+      "position": "3MF",
+      "name": "José Luis Rodríguez"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Adalberto Carrasquilla"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Tomás Rodríguez"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "Ismael Díaz"
+    },
+    {
+      "number": "11",
+      "position": "3MF",
+      "name": "Yoel Bárcenas"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "César Samudio"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Jiovany Ramos"
+    },
+    {
+      "number": "14",
+      "position": "2DF",
+      "name": "Carlos Harvey"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "Eric Davis"
+    },
+    {
+      "number": "16",
+      "position": "2DF",
+      "name": "Andrés Andrade"
+    },
+    {
+      "number": "17",
+      "position": "4FW",
+      "name": "José Fajardo"
+    },
+    {
+      "number": "18",
+      "position": "4FW",
+      "name": "Cecilio Waterman"
+    },
+    {
+      "number": "19",
+      "position": "3MF",
+      "name": "Alberto Quintero"
+    },
+    {
+      "number": "20",
+      "position": "3MF",
+      "name": "Aníbal Godoy (captain)"
+    },
+    {
+      "number": "21",
+      "position": "3MF",
+      "name": "César Yanis"
+    },
+    {
+      "number": "22",
+      "position": "1GK",
+      "name": "Orlando Mosquera"
+    },
+    {
+      "number": "23",
+      "position": "2DF",
+      "name": "Michael Amir Murillo"
+    },
+    {
+      "number": "24",
+      "position": "4FW",
+      "name": "Azarias Londoño"
+    },
+    {
+      "number": "25",
+      "position": "2DF",
+      "name": "Roderick Miller"
+    },
+    {
+      "number": "26",
+      "position": "2DF",
+      "name": "Jorge Gutiérrez"
+    }
+  ],
+  "Paraguay": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Gatito Fernández"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Gustavo Velázquez"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Omar Alderete"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Juan José Cáceres"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Fabián Balbuena"
+    },
+    {
+      "number": "6",
+      "position": "2DF",
+      "name": "Júnior Alonso"
+    },
+    {
+      "number": "7",
+      "position": "3MF",
+      "name": "Ramón Sosa"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Diego Gómez"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Antonio Sanabria"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "Miguel Almirón"
+    },
+    {
+      "number": "11",
+      "position": "3MF",
+      "name": "Maurício"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Orlando Gill"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "José Canale"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Andrés Cubas"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "Gustavo Gómez (captain)"
+    },
+    {
+      "number": "16",
+      "position": "3MF",
+      "name": "Damián Bobadilla"
+    },
+    {
+      "number": "17",
+      "position": "4FW",
+      "name": "Kaku"
+    },
+    {
+      "number": "18",
+      "position": "4FW",
+      "name": "Álex Arce"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Julio Enciso"
+    },
+    {
+      "number": "20",
+      "position": "3MF",
+      "name": "Braian Ojeda"
+    },
+    {
+      "number": "21",
+      "position": "4FW",
+      "name": "Gabriel Ávalos"
+    },
+    {
+      "number": "22",
+      "position": "1GK",
+      "name": "Gastón Olveira"
+    },
+    {
+      "number": "23",
+      "position": "3MF",
+      "name": "Matías Galarza"
+    },
+    {
+      "number": "24",
+      "position": "3MF",
+      "name": "Gustavo Caballero"
+    },
+    {
+      "number": "25",
+      "position": "4FW",
+      "name": "Isidro Pitta"
+    },
+    {
+      "number": "26",
+      "position": "2DF",
+      "name": "Alexandro Maidana"
+    }
+  ],
+  "Portugal": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Diogo Costa"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Nélson Semedo"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Rúben Dias"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Tomás Araújo"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Diogo Dalot"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Matheus Nunes"
+    },
+    {
+      "number": "7",
+      "position": "4FW",
+      "name": "Cristiano Ronaldo (captain)"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Bruno Fernandes"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Gonçalo Ramos"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "Bernardo Silva"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "João Félix"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "José Sá"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Renato Veiga"
+    },
+    {
+      "number": "14",
+      "position": "2DF",
+      "name": "Gonçalo Inácio"
+    },
+    {
+      "number": "15",
+      "position": "3MF",
+      "name": "João Neves"
+    },
+    {
+      "number": "16",
+      "position": "4FW",
+      "name": "Francisco Trincão"
+    },
+    {
+      "number": "17",
+      "position": "4FW",
+      "name": "Rafael Leão"
+    },
+    {
+      "number": "18",
+      "position": "4FW",
+      "name": "Pedro Neto"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Gonçalo Guedes"
+    },
+    {
+      "number": "20",
+      "position": "2DF",
+      "name": "João Cancelo"
+    },
+    {
+      "number": "21",
+      "position": "3MF",
+      "name": "Rúben Neves"
+    },
+    {
+      "number": "22",
+      "position": "1GK",
+      "name": "Rui Silva"
+    },
+    {
+      "number": "23",
+      "position": "3MF",
+      "name": "Vitinha"
+    },
+    {
+      "number": "24",
+      "position": "2DF",
+      "name": "Samú Costa"
+    },
+    {
+      "number": "25",
+      "position": "2DF",
+      "name": "Nuno Mendes"
+    },
+    {
+      "number": "26",
+      "position": "4FW",
+      "name": "Francisco Conceição"
+    }
+  ],
+  "Qatar": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Mahmud Abunada"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Pedro Miguel"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Lucas Mendes"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Issa Laye"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Jassem Gaber"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Abdulaziz Hatem"
+    },
+    {
+      "number": "7",
+      "position": "4FW",
+      "name": "Ahmed Alaaeldin"
+    },
+    {
+      "number": "8",
+      "position": "4FW",
+      "name": "Edmilson Junior"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Mohammed Muntari"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Hassan Al-Haydos (captain)"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Akram Afif"
+    },
+    {
+      "number": "12",
+      "position": "3MF",
+      "name": "Karim Boudiaf"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Ayoub Al-Oui"
+    },
+    {
+      "number": "14",
+      "position": "2DF",
+      "name": "Homam Ahmed"
+    },
+    {
+      "number": "15",
+      "position": "4FW",
+      "name": "Yusuf Abdurisag"
+    },
+    {
+      "number": "16",
+      "position": "2DF",
+      "name": "Boualem Khoukhi"
+    },
+    {
+      "number": "17",
+      "position": "3MF",
+      "name": "Ahmed Al-Ganehi"
+    },
+    {
+      "number": "18",
+      "position": "2DF",
+      "name": "Sultan Al-Brake"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Almoez Ali"
+    },
+    {
+      "number": "20",
+      "position": "3MF",
+      "name": "Ahmed Fathy"
+    },
+    {
+      "number": "21",
+      "position": "1GK",
+      "name": "Salah Zakaria"
+    },
+    {
+      "number": "22",
+      "position": "1GK",
+      "name": "Meshaal Barsham"
+    },
+    {
+      "number": "23",
+      "position": "3MF",
+      "name": "Assim Madibo"
+    },
+    {
+      "number": "24",
+      "position": "4FW",
+      "name": "Tahsin Jamshid"
+    },
+    {
+      "number": "25",
+      "position": "2DF",
+      "name": "Al-Hashmi Al-Hussain"
+    },
+    {
+      "number": "26",
+      "position": "4FW",
+      "name": "Mohamed Manai"
+    }
+  ],
+  "Saudi Arabia": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Nawaf Al-Aqidi"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Ali Majrashi"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Ali Lajami"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Abdulelah Al-Amri"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Hassan Al-Tambakti"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Nasser Al-Dawsari"
+    },
+    {
+      "number": "7",
+      "position": "3MF",
+      "name": "Musab Al-Juwayr"
+    },
+    {
+      "number": "8",
+      "position": "4FW",
+      "name": "Ayman Yahya"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Firas Al-Buraikan"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Salem Al-Dawsari (captain)"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Saleh Al-Shehri"
+    },
+    {
+      "number": "12",
+      "position": "2DF",
+      "name": "Saud Abdulhamid"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Nawaf Boushal"
+    },
+    {
+      "number": "14",
+      "position": "2DF",
+      "name": "Hassan Kadesh"
+    },
+    {
+      "number": "15",
+      "position": "3MF",
+      "name": "Abdullah Al-Khaibari"
+    },
+    {
+      "number": "16",
+      "position": "3MF",
+      "name": "Ziyad Al-Johani"
+    },
+    {
+      "number": "17",
+      "position": "4FW",
+      "name": "Khalid Al-Ghannam"
+    },
+    {
+      "number": "18",
+      "position": "3MF",
+      "name": "Alaa Al-Hejji"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Abdullah Al-Hamdan"
+    },
+    {
+      "number": "20",
+      "position": "4FW",
+      "name": "Sultan Mandash"
+    },
+    {
+      "number": "21",
+      "position": "1GK",
+      "name": "Mohammed Al-Owais"
+    },
+    {
+      "number": "22",
+      "position": "1GK",
+      "name": "Ahmed Al-Kassar"
+    },
+    {
+      "number": "23",
+      "position": "3MF",
+      "name": "Mohamed Kanno"
+    },
+    {
+      "number": "24",
+      "position": "2DF",
+      "name": "Moteb Al-Harbi"
+    },
+    {
+      "number": "25",
+      "position": "2DF",
+      "name": "Jehad Thakri"
+    },
+    {
+      "number": "26",
+      "position": "2DF",
+      "name": "Mohammed Abu Al-Shamat"
+    }
+  ],
+  "Scotland": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Angus Gunn"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Aaron Hickey"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Andy Robertson (captain)"
+    },
+    {
+      "number": "4",
+      "position": "3MF",
+      "name": "Scott McTominay"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Grant Hanley"
+    },
+    {
+      "number": "6",
+      "position": "2DF",
+      "name": "Kieran Tierney"
+    },
+    {
+      "number": "7",
+      "position": "3MF",
+      "name": "John McGinn"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Tyler Fletcher"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Lyndon Dykes"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Ché Adams"
+    },
+    {
+      "number": "11",
+      "position": "3MF",
+      "name": "Ryan Christie"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Liam Kelly"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Jack Hendry"
+    },
+    {
+      "number": "14",
+      "position": "4FW",
+      "name": "Ross Stewart"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "John Souttar"
+    },
+    {
+      "number": "16",
+      "position": "2DF",
+      "name": "Dominic Hyam"
+    },
+    {
+      "number": "17",
+      "position": "4FW",
+      "name": "Ben Gannon-Doak"
+    },
+    {
+      "number": "18",
+      "position": "4FW",
+      "name": "George Hirst"
+    },
+    {
+      "number": "19",
+      "position": "3MF",
+      "name": "Lewis Ferguson"
+    },
+    {
+      "number": "20",
+      "position": "4FW",
+      "name": "Lawrence Shankland"
+    },
+    {
+      "number": "21",
+      "position": "1GK",
+      "name": "Craig Gordon"
+    },
+    {
+      "number": "22",
+      "position": "2DF",
+      "name": "Nathan Patterson"
+    },
+    {
+      "number": "23",
+      "position": "3MF",
+      "name": "Kenny McLean"
+    },
+    {
+      "number": "24",
+      "position": "2DF",
+      "name": "Anthony Ralston"
+    },
+    {
+      "number": "25",
+      "position": "4FW",
+      "name": "Findlay Curtis"
+    },
+    {
+      "number": "26",
+      "position": "2DF",
+      "name": "Scott McKenna"
+    }
+  ],
+  "Senegal": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Yehvann Diouf"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Mamadou Sarr"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Kalidou Koulibaly (captain)"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Abdoulaye Seck"
+    },
+    {
+      "number": "5",
+      "position": "3MF",
+      "name": "Idrissa Gueye"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Pathé Ciss"
+    },
+    {
+      "number": "7",
+      "position": "4FW",
+      "name": "Assane Diao"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Lamine Camara"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Bamba Dieng"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Sadio Mané"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Nicolas Jackson"
+    },
+    {
+      "number": "12",
+      "position": "4FW",
+      "name": "Cherif Ndiaye"
+    },
+    {
+      "number": "13",
+      "position": "4FW",
+      "name": "Iliman Ndiaye"
+    },
+    {
+      "number": "14",
+      "position": "2DF",
+      "name": "Ismail Jakobs"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "Krépin Diatta"
+    },
+    {
+      "number": "16",
+      "position": "1GK",
+      "name": "Édouard Mendy"
+    },
+    {
+      "number": "17",
+      "position": "3MF",
+      "name": "Pape Matar Sarr"
+    },
+    {
+      "number": "18",
+      "position": "4FW",
+      "name": "Ismaïla Sarr"
+    },
+    {
+      "number": "19",
+      "position": "2DF",
+      "name": "Moussa Niakhaté"
+    },
+    {
+      "number": "20",
+      "position": "4FW",
+      "name": "Ibrahim Mbaye"
+    },
+    {
+      "number": "21",
+      "position": "3MF",
+      "name": "Habib Diarra"
+    },
+    {
+      "number": "22",
+      "position": "3MF",
+      "name": "Bara Sapoko Ndiaye"
+    },
+    {
+      "number": "23",
+      "position": "1GK",
+      "name": "Mory Diaw"
+    },
+    {
+      "number": "24",
+      "position": "2DF",
+      "name": "Antoine Mendy"
+    },
+    {
+      "number": "25",
+      "position": "2DF",
+      "name": "El Hadji Malick Diouf"
+    },
+    {
+      "number": "26",
+      "position": "3MF",
+      "name": "Pape Gueye"
+    }
+  ],
+  "South Africa": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Ronwen Williams (captain)"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Thabang Matuludi"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Khulumani Ndamane"
+    },
+    {
+      "number": "4",
+      "position": "3MF",
+      "name": "Teboho Mokoena"
+    },
+    {
+      "number": "5",
+      "position": "3MF",
+      "name": "Thalente Mbatha"
+    },
+    {
+      "number": "6",
+      "position": "2DF",
+      "name": "Aubrey Modiba"
+    },
+    {
+      "number": "7",
+      "position": "4FW",
+      "name": "Oswin Appollis"
+    },
+    {
+      "number": "8",
+      "position": "4FW",
+      "name": "Tshepang Moremi"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Lyle Foster"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Relebohile Mofokeng"
+    },
+    {
+      "number": "11",
+      "position": "3MF",
+      "name": "Themba Zwane"
+    },
+    {
+      "number": "12",
+      "position": "4FW",
+      "name": "Thapelo Maseko"
+    },
+    {
+      "number": "13",
+      "position": "3MF",
+      "name": "Sphephelo Sithole"
+    },
+    {
+      "number": "14",
+      "position": "2DF",
+      "name": "Mbekezeli Mbokazi"
+    },
+    {
+      "number": "15",
+      "position": "4FW",
+      "name": "Iqraam Rayners"
+    },
+    {
+      "number": "16",
+      "position": "1GK",
+      "name": "Sipho Chaine"
+    },
+    {
+      "number": "17",
+      "position": "4FW",
+      "name": "Evidence Makgopa"
+    },
+    {
+      "number": "18",
+      "position": "2DF",
+      "name": "Samukele Kabini"
+    },
+    {
+      "number": "19",
+      "position": "2DF",
+      "name": "Nkosinathi Sibisi"
+    },
+    {
+      "number": "20",
+      "position": "2DF",
+      "name": "Khuliso Mudau"
+    },
+    {
+      "number": "21",
+      "position": "2DF",
+      "name": "Ime Okon"
+    },
+    {
+      "number": "22",
+      "position": "1GK",
+      "name": "Ricardo Goss"
+    },
+    {
+      "number": "23",
+      "position": "3MF",
+      "name": "Jayden Adams"
+    },
+    {
+      "number": "24",
+      "position": "2DF",
+      "name": "Olwethu Makhanya"
+    },
+    {
+      "number": "25",
+      "position": "4FW",
+      "name": "Kamogelo Sebelebele"
+    },
+    {
+      "number": "26",
+      "position": "2DF",
+      "name": "Bradley Cross"
+    }
+  ],
+  "Spain": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "David Raya"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Marc Pubill"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Álex Grimaldo"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Eric García"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Marcos Llorente"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Mikel Merino"
+    },
+    {
+      "number": "7",
+      "position": "4FW",
+      "name": "Ferran Torres"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Fabián Ruiz"
+    },
+    {
+      "number": "9",
+      "position": "3MF",
+      "name": "Gavi"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Dani Olmo"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Yéremy Pino"
+    },
+    {
+      "number": "12",
+      "position": "2DF",
+      "name": "Pedro Porro"
+    },
+    {
+      "number": "13",
+      "position": "1GK",
+      "name": "Joan Garcia"
+    },
+    {
+      "number": "14",
+      "position": "2DF",
+      "name": "Aymeric Laporte"
+    },
+    {
+      "number": "15",
+      "position": "3MF",
+      "name": "Álex Baena"
+    },
+    {
+      "number": "16",
+      "position": "3MF",
+      "name": "Rodri (captain)"
+    },
+    {
+      "number": "17",
+      "position": "4FW",
+      "name": "Nico Williams"
+    },
+    {
+      "number": "18",
+      "position": "3MF",
+      "name": "Martín Zubimendi"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Lamine Yamal"
+    },
+    {
+      "number": "20",
+      "position": "3MF",
+      "name": "Pedri"
+    },
+    {
+      "number": "21",
+      "position": "4FW",
+      "name": "Mikel Oyarzabal"
+    },
+    {
+      "number": "22",
+      "position": "2DF",
+      "name": "Pau Cubarsí"
+    },
+    {
+      "number": "23",
+      "position": "1GK",
+      "name": "Unai Simón"
+    },
+    {
+      "number": "24",
+      "position": "2DF",
+      "name": "Marc Cucurella"
+    },
+    {
+      "number": "25",
+      "position": "4FW",
+      "name": "Víctor Muñoz"
+    },
+    {
+      "number": "26",
+      "position": "4FW",
+      "name": "Borja Iglesias"
+    }
+  ],
+  "Sweden": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Jacob Widell Zetterström"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Gustaf Lagerbielke"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Victor Lindelöf (captain)"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Isak Hien"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Gabriel Gudmundsson"
+    },
+    {
+      "number": "6",
+      "position": "2DF",
+      "name": "Herman Johansson"
+    },
+    {
+      "number": "7",
+      "position": "3MF",
+      "name": "Lucas Bergvall"
+    },
+    {
+      "number": "8",
+      "position": "2DF",
+      "name": "Daniel Svensson"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Alexander Isak"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "Benjamin Nygren"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Anthony Elanga"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Viktor Johansson"
+    },
+    {
+      "number": "13",
+      "position": "3MF",
+      "name": "Ken Sema"
+    },
+    {
+      "number": "14",
+      "position": "2DF",
+      "name": "Hjalmar Ekdal"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "Carl Starfelt"
+    },
+    {
+      "number": "16",
+      "position": "3MF",
+      "name": "Jesper Karlström"
+    },
+    {
+      "number": "17",
+      "position": "4FW",
+      "name": "Viktor Gyökeres"
+    },
+    {
+      "number": "18",
+      "position": "3MF",
+      "name": "Yasin Ayari"
+    },
+    {
+      "number": "19",
+      "position": "3MF",
+      "name": "Mattias Svanberg"
+    },
+    {
+      "number": "20",
+      "position": "2DF",
+      "name": "Eric Smith"
+    },
+    {
+      "number": "21",
+      "position": "2DF",
+      "name": "Alexander Bernhardsson"
+    },
+    {
+      "number": "22",
+      "position": "3MF",
+      "name": "Besfort Zeneli"
+    },
+    {
+      "number": "23",
+      "position": "1GK",
+      "name": "Kristoffer Nordfeldt"
+    },
+    {
+      "number": "24",
+      "position": "2DF",
+      "name": "Elliot Stroud"
+    },
+    {
+      "number": "25",
+      "position": "4FW",
+      "name": "Gustaf Nilsson"
+    },
+    {
+      "number": "26",
+      "position": "4FW",
+      "name": "Taha Ali"
+    }
+  ],
+  "Switzerland": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Gregor Kobel"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Miro Muheim"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Silvan Widmer"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Nico Elvedi"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Manuel Akanji"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Denis Zakaria"
+    },
+    {
+      "number": "7",
+      "position": "4FW",
+      "name": "Breel Embolo"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Remo Freuler"
+    },
+    {
+      "number": "9",
+      "position": "3MF",
+      "name": "Johan Manzambi"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "Granit Xhaka (captain)"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Dan Ndoye"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Yvon Mvogo"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Ricardo Rodriguez"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Ardon Jashari"
+    },
+    {
+      "number": "15",
+      "position": "3MF",
+      "name": "Djibril Sow"
+    },
+    {
+      "number": "16",
+      "position": "4FW",
+      "name": "Christian Fassnacht"
+    },
+    {
+      "number": "17",
+      "position": "4FW",
+      "name": "Rubén Vargas"
+    },
+    {
+      "number": "18",
+      "position": "2DF",
+      "name": "Eray Cömert"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Noah Okafor"
+    },
+    {
+      "number": "20",
+      "position": "3MF",
+      "name": "Michel Aebischer"
+    },
+    {
+      "number": "21",
+      "position": "1GK",
+      "name": "Marvin Keller"
+    },
+    {
+      "number": "22",
+      "position": "3MF",
+      "name": "Fabian Rieder"
+    },
+    {
+      "number": "23",
+      "position": "4FW",
+      "name": "Zeki Amdouni"
+    },
+    {
+      "number": "24",
+      "position": "2DF",
+      "name": "Aurèle Amenda"
+    },
+    {
+      "number": "25",
+      "position": "2DF",
+      "name": "Luca Jaquez"
+    },
+    {
+      "number": "26",
+      "position": "4FW",
+      "name": "Cedric Itten"
+    }
+  ],
+  "Tunisia": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Mouhib Chamakh"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Ali Abdi"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Montassar Talbi"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Omar Rekik"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Adem Arous"
+    },
+    {
+      "number": "6",
+      "position": "2DF",
+      "name": "Dylan Bronn"
+    },
+    {
+      "number": "7",
+      "position": "4FW",
+      "name": "Elias Achouri"
+    },
+    {
+      "number": "8",
+      "position": "4FW",
+      "name": "Elias Saad"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Hazem Mastouri"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "Hannibal Mejbri"
+    },
+    {
+      "number": "11",
+      "position": "3MF",
+      "name": "Ismaël Gharbi"
+    },
+    {
+      "number": "12",
+      "position": "2DF",
+      "name": "Mortadha Ben Ouanes"
+    },
+    {
+      "number": "13",
+      "position": "3MF",
+      "name": "Rani Khedira"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Khalil Ayari"
+    },
+    {
+      "number": "15",
+      "position": "3MF",
+      "name": "Hadj Mahmoud"
+    },
+    {
+      "number": "16",
+      "position": "1GK",
+      "name": "Aymen Dahmen"
+    },
+    {
+      "number": "17",
+      "position": "3MF",
+      "name": "Ellyes Skhiri (captain)"
+    },
+    {
+      "number": "18",
+      "position": "4FW",
+      "name": "Rayan Elloumi"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Firas Chaouat"
+    },
+    {
+      "number": "20",
+      "position": "2DF",
+      "name": "Yan Valery"
+    },
+    {
+      "number": "21",
+      "position": "2DF",
+      "name": "Mohamed Amine Ben Hamida"
+    },
+    {
+      "number": "22",
+      "position": "1GK",
+      "name": "Sabri Ben Hessen"
+    },
+    {
+      "number": "23",
+      "position": "2DF",
+      "name": "Moutaz Neffati"
+    },
+    {
+      "number": "24",
+      "position": "2DF",
+      "name": "Raed Chikhaoui"
+    },
+    {
+      "number": "25",
+      "position": "3MF",
+      "name": "Anis Ben Slimane"
+    },
+    {
+      "number": "26",
+      "position": "3MF",
+      "name": "Sebastian Tounekti"
+    }
+  ],
+  "Türkiye": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Mert Günok"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Zeki Çelik"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Merih Demiral"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Çağlar Söyüncü"
+    },
+    {
+      "number": "5",
+      "position": "3MF",
+      "name": "Salih Özcan"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Orkun Kökçü"
+    },
+    {
+      "number": "7",
+      "position": "4FW",
+      "name": "Kerem Aktürkoğlu"
+    },
+    {
+      "number": "8",
+      "position": "4FW",
+      "name": "Arda Güler"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Deniz Gül"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "Hakan Çalhanoğlu (captain)"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Kenan Yıldız"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Altay Bayındır"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Eren Elmalı"
+    },
+    {
+      "number": "14",
+      "position": "2DF",
+      "name": "Abdülkerim Bardakcı"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "Ozan Kabak"
+    },
+    {
+      "number": "16",
+      "position": "3MF",
+      "name": "İsmail Yüksek"
+    },
+    {
+      "number": "17",
+      "position": "4FW",
+      "name": "İrfan Can Kahveci"
+    },
+    {
+      "number": "18",
+      "position": "2DF",
+      "name": "Mert Müldür"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Yunus Akgün"
+    },
+    {
+      "number": "20",
+      "position": "2DF",
+      "name": "Ferdi Kadıoğlu"
+    },
+    {
+      "number": "21",
+      "position": "4FW",
+      "name": "Barış Alper Yılmaz"
+    },
+    {
+      "number": "22",
+      "position": "3MF",
+      "name": "Kaan Ayhan"
+    },
+    {
+      "number": "23",
+      "position": "1GK",
+      "name": "Uğurcan Çakır"
+    },
+    {
+      "number": "24",
+      "position": "4FW",
+      "name": "Oğuz Aydın"
+    },
+    {
+      "number": "25",
+      "position": "2DF",
+      "name": "Samet Akaydin"
+    },
+    {
+      "number": "26",
+      "position": "4FW",
+      "name": "Can Uzun"
+    }
+  ],
+  "USA": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Matt Turner"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Sergiño Dest"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Chris Richards"
+    },
+    {
+      "number": "4",
+      "position": "3MF",
+      "name": "Tyler Adams"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Antonee Robinson"
+    },
+    {
+      "number": "6",
+      "position": "2DF",
+      "name": "Auston Trusty"
+    },
+    {
+      "number": "7",
+      "position": "3MF",
+      "name": "Giovanni Reyna"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Weston McKennie"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Ricardo Pepi"
+    },
+    {
+      "number": "10",
+      "position": "4FW",
+      "name": "Christian Pulisic"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Brenden Aaronson"
+    },
+    {
+      "number": "12",
+      "position": "2DF",
+      "name": "Miles Robinson"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Tim Ream (captain)"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Sebastian Berhalter"
+    },
+    {
+      "number": "15",
+      "position": "3MF",
+      "name": "Cristian Roldan"
+    },
+    {
+      "number": "16",
+      "position": "2DF",
+      "name": "Alex Freeman"
+    },
+    {
+      "number": "17",
+      "position": "3MF",
+      "name": "Malik Tillman"
+    },
+    {
+      "number": "18",
+      "position": "2DF",
+      "name": "Max Arfsten"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Haji Wright"
+    },
+    {
+      "number": "20",
+      "position": "4FW",
+      "name": "Folarin Balogun"
+    },
+    {
+      "number": "21",
+      "position": "4FW",
+      "name": "Timothy Weah"
+    },
+    {
+      "number": "22",
+      "position": "2DF",
+      "name": "Mark McKenzie"
+    },
+    {
+      "number": "23",
+      "position": "2DF",
+      "name": "Joe Scally"
+    },
+    {
+      "number": "24",
+      "position": "1GK",
+      "name": "Matt Freese"
+    },
+    {
+      "number": "25",
+      "position": "1GK",
+      "name": "Chris Brady"
+    },
+    {
+      "number": "26",
+      "position": "4FW",
+      "name": "Alejandro Zendejas"
+    }
+  ],
+  "Uruguay": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Sergio Rochet"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "José María Giménez (captain)"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Sebastián Cáceres"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Ronald Araújo"
+    },
+    {
+      "number": "5",
+      "position": "3MF",
+      "name": "Manuel Ugarte"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Rodrigo Bentancur"
+    },
+    {
+      "number": "7",
+      "position": "3MF",
+      "name": "Nicolás de la Cruz"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Federico Valverde"
+    },
+    {
+      "number": "9",
+      "position": "4FW",
+      "name": "Darwin Núñez"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "Giorgian de Arrascaeta"
+    },
+    {
+      "number": "11",
+      "position": "4FW",
+      "name": "Facundo Pellistri"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Santiago Mele"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Guillermo Varela"
+    },
+    {
+      "number": "14",
+      "position": "3MF",
+      "name": "Agustín Canobbio"
+    },
+    {
+      "number": "15",
+      "position": "3MF",
+      "name": "Emiliano Martínez"
+    },
+    {
+      "number": "16",
+      "position": "2DF",
+      "name": "Mathías Olivera"
+    },
+    {
+      "number": "17",
+      "position": "2DF",
+      "name": "Matías Viña"
+    },
+    {
+      "number": "18",
+      "position": "4FW",
+      "name": "Brian Rodríguez"
+    },
+    {
+      "number": "19",
+      "position": "4FW",
+      "name": "Rodrigo Aguirre"
+    },
+    {
+      "number": "20",
+      "position": "3MF",
+      "name": "Maximiliano Araújo"
+    },
+    {
+      "number": "21",
+      "position": "4FW",
+      "name": "Federico Viñas"
+    },
+    {
+      "number": "22",
+      "position": "3MF",
+      "name": "Joaquín Piquerez"
+    },
+    {
+      "number": "23",
+      "position": "1GK",
+      "name": "Fernando Muslera"
+    },
+    {
+      "number": "24",
+      "position": "2DF",
+      "name": "Santiago Bueno"
+    },
+    {
+      "number": "25",
+      "position": "3MF",
+      "name": "Juan Manuel Sanabria"
+    },
+    {
+      "number": "26",
+      "position": "3MF",
+      "name": "Rodrigo Zalazar"
+    }
+  ],
+  "Uzbekistan": [
+    {
+      "number": "1",
+      "position": "1GK",
+      "name": "Utkir Yusupov"
+    },
+    {
+      "number": "2",
+      "position": "2DF",
+      "name": "Abdukodir Khusanov"
+    },
+    {
+      "number": "3",
+      "position": "2DF",
+      "name": "Khojiakbar Alijonov"
+    },
+    {
+      "number": "4",
+      "position": "2DF",
+      "name": "Farrukh Sayfiev"
+    },
+    {
+      "number": "5",
+      "position": "2DF",
+      "name": "Rustam Ashurmatov"
+    },
+    {
+      "number": "6",
+      "position": "3MF",
+      "name": "Akmal Mozgovoy"
+    },
+    {
+      "number": "7",
+      "position": "3MF",
+      "name": "Otabek Shukurov"
+    },
+    {
+      "number": "8",
+      "position": "3MF",
+      "name": "Jamshid Iskanderov"
+    },
+    {
+      "number": "9",
+      "position": "3MF",
+      "name": "Odiljon Hamrobekov"
+    },
+    {
+      "number": "10",
+      "position": "3MF",
+      "name": "Jaloliddin Masharipov"
+    },
+    {
+      "number": "11",
+      "position": "3MF",
+      "name": "Oston Urunov"
+    },
+    {
+      "number": "12",
+      "position": "1GK",
+      "name": "Abduvohid Nematov"
+    },
+    {
+      "number": "13",
+      "position": "2DF",
+      "name": "Sherzod Nasrullaev"
+    },
+    {
+      "number": "14",
+      "position": "4FW",
+      "name": "Eldor Shomurodov (captain)"
+    },
+    {
+      "number": "15",
+      "position": "2DF",
+      "name": "Umar Eshmurodov"
+    },
+    {
+      "number": "16",
+      "position": "1GK",
+      "name": "Botirali Ergashev"
+    },
+    {
+      "number": "17",
+      "position": "3MF",
+      "name": "Dostonbek Khamdamov"
+    },
+    {
+      "number": "18",
+      "position": "2DF",
+      "name": "Abdulla Abdullaev"
+    },
+    {
+      "number": "19",
+      "position": "3MF",
+      "name": "Azizjon Ganiev"
+    },
+    {
+      "number": "20",
+      "position": "4FW",
+      "name": "Azizbek Amonov"
+    },
+    {
+      "number": "21",
+      "position": "4FW",
+      "name": "Igor Sergeev"
+    },
+    {
+      "number": "22",
+      "position": "3MF",
+      "name": "Abbosbek Fayzullaev"
+    },
+    {
+      "number": "23",
+      "position": "3MF",
+      "name": "Sherzod Esanov"
+    },
+    {
+      "number": "24",
+      "position": "2DF",
+      "name": "Bekhruz Karimov"
+    },
+    {
+      "number": "25",
+      "position": "2DF",
+      "name": "Avazbek Ulmasaliev"
+    },
+    {
+      "number": "26",
+      "position": "2DF",
+      "name": "Jakhongir Urozov"
+    }
+  ],
+  "Curaçao": [
+    {
+      "number": "1",
+      "position": "GK",
+      "name": "Eloy Room"
+    },
+    {
+      "number": "2",
+      "position": "DF",
+      "name": "Shurandy Sambo"
+    },
+    {
+      "number": "3",
+      "position": "DF",
+      "name": "Juriën Gaari"
+    },
+    {
+      "number": "4",
+      "position": "DF",
+      "name": "Roshon van Eijma"
+    },
+    {
+      "number": "5",
+      "position": "DF",
+      "name": "Sherel Floranus"
+    },
+    {
+      "number": "6",
+      "position": "MF",
+      "name": "Godfried Roemeratoe"
+    },
+    {
+      "number": "7",
+      "position": "MF",
+      "name": "Juninho Bacuna"
+    },
+    {
+      "number": "8",
+      "position": "MF",
+      "name": "Livano Comenencia"
+    },
+    {
+      "number": "9",
+      "position": "FW",
+      "name": "Jürgen Locadia"
+    },
+    {
+      "number": "10",
+      "position": "MF",
+      "name": "Leandro Bacuna"
+    },
+    {
+      "number": "11",
+      "position": "FW",
+      "name": "Jeremy Antonisse"
+    },
+    {
+      "number": "12",
+      "position": "FW",
+      "name": "Sontje Hansen"
+    },
+    {
+      "number": "13",
+      "position": "FW",
+      "name": "Tyrese Noslin"
+    },
+    {
+      "number": "14",
+      "position": "FW",
+      "name": "Kenji Gorré"
+    },
+    {
+      "number": "15",
+      "position": "MF",
+      "name": "Ar'jany Martha"
+    },
+    {
+      "number": "16",
+      "position": "FW",
+      "name": "Jearl Margaritha"
+    },
+    {
+      "number": "17",
+      "position": "FW",
+      "name": "Brandley Kuwas"
+    },
+    {
+      "number": "18",
+      "position": "DF",
+      "name": "Armando Obispo"
+    },
+    {
+      "number": "19",
+      "position": "FW",
+      "name": "Gervane Kastaneer"
+    },
+    {
+      "number": "20",
+      "position": "DF",
+      "name": "Joshua Brenet"
+    },
+    {
+      "number": "21",
+      "position": "MF",
+      "name": "Tahith Chong"
+    },
+    {
+      "number": "22",
+      "position": "MF",
+      "name": "Kevin Felida"
+    },
+    {
+      "number": "23",
+      "position": "DF",
+      "name": "Riechedly Bazoer"
+    },
+    {
+      "number": "24",
+      "position": "DF",
+      "name": "Deveron Fonville"
+    },
+    {
+      "number": "25",
+      "position": "GK",
+      "name": "Tyrick Bodak"
+    },
+    {
+      "number": "26",
+      "position": "GK",
+      "name": "Trevor Doornbusch"
+    }
+  ]
+}
